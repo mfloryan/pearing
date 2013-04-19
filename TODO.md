@@ -4,6 +4,8 @@ EXPERIMENTS
 How many free lives should we allocate?
 How often do people return to answer a question?
 Do we need a UI for this or could we play the entire game through other people's front ends?
+How long will people play for?
+How many players do we need to make the game attractive to other players?
 
 TODO
 ====
@@ -44,6 +46,11 @@ A Player can earn additional Lives by answering a defined number of questions co
 
 A Player can earn additional Lives by Inviting new Players to the Game.
 
+A Player can Buy additional Lives
+
+A Game transitions between States. There are 3 States: beginning, middle and end.
+
+Transitions between states are based on some difficult maths stuff that hasn't been worked out yet.
 
 
 
