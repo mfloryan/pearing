@@ -50,7 +50,10 @@ A Player can Buy additional Lives
 
 A Game transitions between States. There are 3 States: beginning, middle and end.
 
-Transitions between states are based on some difficult maths stuff that hasn't been worked out yet.
+Transitions between Game States are based on some difficult maths stuff that hasn't been worked out yet.
 
+In the End State no new Players can join the game
 
+No new Lives can be earned in the End State
 
+Final Questions of a Game are not Poll based questions.
