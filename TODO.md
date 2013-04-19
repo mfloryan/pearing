@@ -20,6 +20,10 @@ I can define a monetary Prize (a Prize can be zero to start with. The Prize may 
 
 A Player can sign up to play the Game.
 
+During sign up we age check Players.
+
+At point of Purchase or Prize Delivery we conduct 
+
 A Player will be allocated a number of Lives.
 
 As a Player I can earn additional Lives
@@ -37,6 +41,8 @@ A Player can answer a Question.
 A Player can receive the results of the Poll at a scheduled time.
 
 A Player can earn additional Lives by answering a defined number of questions correctly consecutively (with no omissions (skipping)).
+
+A Player can earn additional Lives by Inviting new Players to the Game.
 
 
 
