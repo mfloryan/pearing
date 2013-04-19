@@ -45,6 +45,8 @@ A Player can decide how to be notified of new questions. They may select multipl
 
 A Player can answer a Question.
 
+A Player gets immediate feedback when they Answer a Question.
+
 A Player can receive the results of the Poll at a scheduled time.
 
 A Player can earn additional Lives by answering a defined number of questions correctly consecutively (with no omissions (skipping)).
