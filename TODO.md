@@ -6,6 +6,7 @@ How often do people return to answer a question?
 Do we need a UI for this or could we play the entire game through other people's front ends?
 How long will people play for?
 How many players do we need to make the game attractive to other players?
+Would players play the game every day of the week - current assumption is that we should only set the game running during the weekdays.
 
 TODO
 ====
@@ -15,6 +16,8 @@ Game needs to be secure - regulated industry.
 Create Polls.
 
 Create a Game.
+
+A Game runs 5 days a week.
 
 A Game has multiple Polls only one of which is active at any one time.
 
@@ -27,6 +30,8 @@ During sign up we age check Players.
 At point of Purchase or Prize Delivery we conduct 
 
 A Player will be allocated a number of Lives.
+
+There are two different types of Life. Lives that save you when you've done something wrong. Lives that allow you to skip something.
 
 As a Player I can earn additional Lives
 
