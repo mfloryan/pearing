@@ -1,9 +1,43 @@
 EXPERIMENTS
 ====
 
-How many free lives should we allocate
-How often do people return to answer a question
+How many free lives should we allocate?
+How often do people return to answer a question?
+Do we need a UI for this or could we play the entire game through other people's front ends?
 
 TODO
 ====
+
+Game needs to be secure - regulated industry.
+
+Create Polls.
+
+Create a Game.
+
+A Game has multiple Polls only one of which is active at any one time.
+
+I can define a monetary Prize (a Prize can be zero to start with. The Prize may change through the game as more Players enter or buy lives) for the Game.
+
+A Player can sign up to play the Game.
+
+A Player will be allocated a number of Lives.
+
+As a Player I can earn additional Lives
+
+A Player should have a OneMoreQuestion account though they should be able to log in with Twitter, Facebook, Phone Number (in the case of SMS), Email, Username etc.
+
+A Question can be defined. Each question has a defined set of answers.
+
+A Question exists for a scheduled amount of time.
+
+A Player can decide how to be notified of new questions. They may select multiple channels.
+
+A Player can answer a Question.
+
+A Player can receive the results of the Poll at a scheduled time.
+
+A Player can earn additional Lives by answering a defined number of questions correctly consecutively (with no omissions (skipping)).
+
+
+
 
