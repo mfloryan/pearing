@@ -12,6 +12,7 @@ TODO
 ====
 
 Game needs to be secure - regulated industry.
+Game is massively susceptible to bots. How do we deal with those?
 
 Create Polls.
 
@@ -51,9 +52,13 @@ A Player can receive the results of the Poll at a scheduled time.
 
 A Player can earn additional Lives by answering a defined number of questions correctly consecutively (with no omissions (skipping)).
 
+A Player Loses a Life when they are in the minority of a Poll.
+
+When there is a split vote in a Poll none of the Players that participated lose a Life.
+
 A Player can earn additional Lives by Inviting new Players to the Game.
 
-A Player can Buy additional Lives
+A Player can Buy additional Lives.
 
 A Game transitions between States. There are 3 States: beginning, middle and end.
 
